@@ -51,7 +51,6 @@ void generate_sort_and_print(const int size) {
 }
 
 int main(int argc, char** argv) {
-
 	generate_sort_and_print(10);
 	generate_sort_and_print(20);
 	generate_sort_and_print(7);
